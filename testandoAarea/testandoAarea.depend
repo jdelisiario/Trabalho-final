@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468622347 source:c:\users\jaciara\desktop\testandoaarea\main.cpp
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
